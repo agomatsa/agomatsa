@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Elikem Amankwah Ofori Dzam 👋 🛡️
+# Hi there, I'm Elikem Amankwah Ofori Dzam 
 ### *Information Security | Governance, Risk & Compliance (GRC) | IT Support 🔐*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-elikem--amankwah--ofori--dzam-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/elikem-amankwah-ofori-dzam/)
@@ -38,7 +38,7 @@
 
 ```mermaid
 flowchart TD
-    Z(("🔒<br/><b>Information Security & Cyber Security<br/>Mastery</b>"))
+    Z(("🔒<br/><b>Information Security & Cyber Security<br/</b>"))
     Z --> A["🌐<br/><b>CyberOps:</b><br/>Cisco CyberOps Path"]
     Z --> B["🛡️<br/><b>GRC & Risk</b><br/>Governance & Compliance"]
     Z --> C["🎯<br/><b>Forensics</b><br/>System & Network Defense"]
@@ -156,6 +156,19 @@ Packet analysis · System administration · Penetration testing
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
+
+### 🎯 Security Operations
+![Nmap](https://img.shields.io/badge/-Nmap-000000?style=flat-square&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+- Nessus
+- OWASP ZAP (Web Testing)
+- MITRE ATT&CK Mapping
+
+### ⚙️ Systems & GRC
+![Linux](https://img.shields.io/badge/-Linux%2FBash-FCC624?style=flat-square&logo=linux&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- NIST & ISO/IEC 27001 Auditing
+- Technical SOC Documentation
 ---
 
 ## 📌 Featured Projects
@@ -181,16 +194,13 @@ Applied GRC coursework building typed, evidence-driven decision pipelines rather
 
 </div>
 
-> If a widget shows broken sometimes, that's usually the free Vercel hosting hitting rate limits — refreshing the page fixes it.
-
 ---
 
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elikem-amankwah-ofori-dzam/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oforidzam@hotmail.com)
 
-<sub>Replace the email badge link above with your real address once ready.</sub>
 
 ---
 
