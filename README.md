@@ -16,7 +16,7 @@
 | Icon | Info |
 | :---: | :--- |
 | 🎓 | **Education** |
-| 📚 | **BSc Information Security Student** — specializing in **System Forensics, Cyber Warfare, Cloud Security, & Cryptography** |
+| 📚 | **BSc Information Security** — specializing in **System Forensics, Cyber Warfare, Cloud Security, & Cryptography** |
 | 🛡️ | **Certifications:** Cisco CyberOps Associate · ISC² Certified in Cybersecurity (CC) · Google IT Support |
 | 🔍 | **Focus Areas:** Governance, Risk & Compliance (GRC), Digital Forensics, and Threat Analysis |
 | 💻 | Hands-on experience with **Nmap, Metasploit, tshark, ExifTool, and Open Policy Agent** |
