@@ -40,8 +40,8 @@
 flowchart TD
     Z(("🔒<br/><b>Information Security & Cyber Security<br/</b>"))
     Z --> A["🌐<br/><b>CyberOps:</b><br/>Cisco CyberOps Path"]
-    Z --> B["🛡️<br/><b>GRC & Risk</b><br/>Governance & Compliance"]
-    Z --> C["🎯<br/><b>Forensics</b><br/>System & Network Defense"]
+    Z --> B["🛡️<br/><b>Governance </b><br/>Risk & Compliance"]
+    Z --> C["🎯<br/><b>System Forensics </b><br/> & Network Defense"]
     Z --> D["🚀<br/><b>Entry-Level Role: </b><br/><br>Cyber Security </br>& InfoSec Analyst"]
 
     style Z fill:#000000,stroke:#22c55e,stroke-width:3px,color:#22c55e
@@ -131,6 +131,7 @@ flowchart TD
 - 🔵 **Cisco Certified CyberOps Associate**
 - 🟢 **ISC² Certified in Cybersecurity (CC)**
 - 🟡 **Google IT Support Professional**
+- 🟡 **Google Cybersecurity Certificate**
 
 ---
 
