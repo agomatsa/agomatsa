@@ -168,7 +168,6 @@ Applied GRC coursework building typed, evidence-driven decision pipelines rather
 - **Vendor risk verification pipeline** (Python) — cross-checks vendor self-attestations (SIG/SOC 2/DPA) against raw telemetry to surface contradictions, evidence-sufficiency gaps, and undisclosed subprocessors
 - **Deterministic ISO/IEC 27001 internal audit engine** — first-match severity classification (design / systemic / recurrence / operating / evidence gaps) applied consistently across 12 Annex A controls, with reproducible, seeded evidence sampling
 
-*(Add your repo links here once pushed — happy to help write individual repo READMEs too.)*
 
 ---
 
