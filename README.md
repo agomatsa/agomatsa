@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Elikem Amankwah Ofori Dzam 
+# Hi there, I AM Elikem
 ### *Information Security | Governance, Risk & Compliance (GRC) | IT Support 🔐*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-elikem--amankwah--ofori--dzam-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/elikem-amankwah-ofori-dzam/)
